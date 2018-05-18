@@ -1,6 +1,6 @@
 # TRIVIA LABORATORIA
 ```
-Aplicaci�n de preguntas y respuestas con el fin de entretener.
+Aplicacio n de preguntas y respuestas con el fin de entretener.
 ----------
 ```
 �Juega y diviertete!

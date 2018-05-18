@@ -7,3 +7,21 @@ body {
     min-height: 75px;
     width: 50%;
   }
+
+  #boxName{
+    position: absolute;
+    z-index: 999;/*posiciona en el eje z para que se vea adelante de todos los objetos*/
+    top:50%;
+    left: 50%;
+    transform: translate(-50%,-50%);/* traslada mi div 50% de su ancho a la izquierda y 50% de su alto hacia arriba*/
+    -webkit-transform: translate(-50%,-50%);/*para navegadores de tipo webkit como Chrome u Opera*/
+    background-color: #ffffff;
+    border: 2px solid #000000;
+    padding: 10px;
+    /*display: none;*/
+  }
+
+  /*#boxName button{
+    border-radius: 25px;
+    background-color: red;
+  }*/
